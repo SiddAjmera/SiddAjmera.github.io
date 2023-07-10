@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "success": true,
+    "errors": [],
+    "request": {
+      "bank": "WBC",
+      "productCode": "FlexiFirstOptionHomeLoan",
+      "portfolio": "HLLVR3",
+      "rateType": "SPL2",
+      "principal": 400000,
+      "loanTerm": 30,
+      "applyRateDiscounts": false,
+      "repaymentFrequency": "MONTHLY",
+      "wbcMethod": null
+    },
+    "principal": 400000,
+    "repaymentFrequency": "MONTHLY",
+    "repaymentType": "PRINCIPAL_INTEREST",
+    "loanTerm": 30,
+    "repaymentAmountRounded": 2396,
+    "rateDiscountApplied": false,
+    "bank": "WBC",
+    "rateCode": "HLFR150",
+    "productCode": "FlexiFirstOptionHomeLoan",
+    "portfolio": "HLLVR3",
+    "productName": "Flexi First Option Home Loan",
+    "rateType": "SPL2",
+    "interestRate": 5.99,
+    "comparisonRate": 6.32,
+    "rateDiscount": 1.84,
+    "wbcMethod": false
+  },
+  "status": 200,
+  "globalErrors": null,
+  "formErrors": null
+}

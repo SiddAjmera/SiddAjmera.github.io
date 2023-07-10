@@ -1,0 +1,15 @@
+{
+    "monthlyInterestSavings": "$600",
+    "introRatePeriod": 2,
+    "lvr": "70%",
+    "lifeOfLoanDiscount": "1.44%",
+    "additionalDiscount": "0.10%",
+    "principal": 400000,
+    "loanTerm": 30,
+    "productCode": "FlexiFirstOptionHomeLoan",
+    "bank": "WBC",
+    "portfolio": "HLLVR3",
+    "repaymentFrequency": "MONTHLY",
+    "applyRateDiscounts": false,
+    "rateType": "SPL2"
+}
